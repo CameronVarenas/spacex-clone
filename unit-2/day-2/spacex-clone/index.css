@@ -1,0 +1,66 @@
+* {
+    margin: 0 auto;
+    font-family: 'Brandon Grotesque','brandon-grotesque',Helvetica,sans-serif;
+    font-weight: 750;
+    color: white;
+}
+
+body {
+    background: url(https://techcrunch.com/wp-content/uploads/2021/02/Desktop_StarL19_DSC_1291.jpg);
+    background-repeat: no-repeat;
+    background-size: 100vw 120vh;
+}
+
+header {
+    height: 10vh;
+    margin-left: 250px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+#logo {
+    margin: 0 10px;
+    margin-left: 75px;
+}
+
+.header-options {
+    margin: 0 10px;
+    margin-top: 8px;
+}
+
+#shop {
+    margin-left: 610px;
+}
+
+#hamburger {
+    margin-top: 7px;
+}
+
+.content {
+    margin-left: 315px;
+    margin-top: 515px;
+    /* display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-content: flex-end; */
+    text-align: left;
+}
+
+#recent-launch {
+    margin-bottom: 10px;
+    font-weight: 100;
+}
+
+#starlink {
+    font-size: 50px;
+}
+
+#replay {
+    font-weight: 800;
+    border: 2px solid white;
+    padding: 18px 60px;
+    display: inline-block;
+    margin-top: 50px;
+}
