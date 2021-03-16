@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "title": "Attack on Titan Final Season",
+        "img_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110277-Yxit7fu0jYOJ.png",
+        "episodes": 16,
+        "ep_seen": 0
+    },
+    {
+        "id": 2,
+        "title": "The Promised Neverland Season 2",
+        "img_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108725-KM8SqUyaUd1o.jpg",
+        "episodes": 11,
+        "ep_seen": 0
+    },
+    {
+        "id": 3,
+        "title": "Horimiya",
+        "img_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124080-h8EPH92nyRfS.jpg",
+        "episodes": 13,
+        "ep_seen": 0
+    },
+    {
+        "id": 4,
+        "title": "Dr. STONE: STONE WARS",
+        "img_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113936-O4YJv5y5QClh.jpg",
+        "episodes": 11,
+        "ep_seen": 0
+    },
+    {
+        "id": 5,
+        "title": "That Time I Got Reincarnated as a Slime Season 2",
+        "img_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108511-PufFordLNyIb.jpg",
+        "episodes": 12,
+        "ep_seen": 0
+    },
+    {
+        "id": 6,
+        "title": "Mushoku Tensei: Jobless Reincarnation",
+        "img_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108465-A0eKcuisIPjm.png",
+        "episodes": 11,
+        "ep_seen": 0
+    },
+    {
+        "id": 7,
+        "title": "Re:Zero -Starting Life in Another World- Season 2 Part 2",
+        "img_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx119661-yHjL0A9oavem.png",
+        "episodes": 12,
+        "ep_seen": 0
+    },
+    {
+        "id": 8,
+        "title": "SK8 the Infinity",
+        "img_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124153-lD9l03ItYlTS.png",
+        "episodes": 12,
+        "ep_seen": 0
+    },
+    {
+        "id": 9,
+        "title": "BEASTARS Season 2",
+        "img_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b114194-eaTi1FpTOfNj.png",
+        "episodes": 12,
+        "ep_seen": 0
+    },
+    {
+        "id": 10,
+        "title": "Cells at Work!!",
+        "img_url":  "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108631-R3yjfHmOJDET.jpg",
+        "episodes": 8,
+        "ep_seen": 0
+    }
+]
